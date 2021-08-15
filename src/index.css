@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "EnterCommand";
+  src:
+    url(entercommand.woff2) format("woff2"),
+    url(entercommand.woff) format("woff");
+}
+
 :root {
   --monitor-light-color: #d3ccbc;
   --monitor-dark-color: #ccc5b3;
